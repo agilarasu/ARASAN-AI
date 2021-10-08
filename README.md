@@ -2,7 +2,7 @@
 This Project was written and tested in **Kali**, So most of the debian will support.
 
 Anyone can fork and modify the source code but should give credits.
-**If you face any error please contace me** agilarasu@cyberdude.com
+**If you face any error please contace me**
 The apps are written using **PyQt5** , it will not store login and session detials , if you can make it store session detials , please help us!
 
 ### Usage
